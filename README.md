@@ -4,7 +4,7 @@ Task Management is a website designed to help users manage their tasks efficient
 ## Team members
 1. M Sivani [https://github.com/Sivanim20]
 2. Niveditha Unni [https://github.com/NivedithaUnni]
-3. Megha B S []
+3. Megha B S [https://github.com/MEGHA51003]
 ## Team Id
 codecraft-trio
 ## Link to product walkthrough
