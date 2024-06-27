@@ -1,6 +1,6 @@
 
 # Task Manager
-Task Management is a website designed to help users manage their tasks efficiently. It provides a user-friendly interface for signing up, creating, updating, and deleting todos
+Task Management is a website designed to help users manage their tasks efficiently. It provides a user-friendly interface for creating, updating, and deleting todos
 ## Team members
 1. M Sivani [https://github.com/Sivanim20]
 2. Niveditha Unni [https://github.com/NivedithaUnni]
